@@ -1,2 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Hyramxue.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Hyramxue.github.io</link></image><lastBuildDate>Fri, 19 Jul 2024 02:04:07 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>localStorage存储超过最大值怎么办？</title><link>https://Hyramxue.github.io/post/localStorage-cun-chu-chao-guo-zui-da-zhi-zen-me-ban-%EF%BC%9F.html</link><description>localStorage存储超过最大值怎么办？&#13;
+&#13;
+1. localStorage存储拿到的值，永远是字符串&#13;
+2. localStorage存储大小是有限制的&#13;
+&#13;
+-   解决方式一：把存储的值，进行压缩&#13;
+&#13;
+   lz-string库&#13;
+&#13;
+   优势：简单&#13;
+   缺点：多引入一个库，如果我们localStorage存储的是很大（光靠压缩解决不来问题）&#13;
+&#13;
+-   解决方式二：indexedDB&#13;
+&#13;
+   indexedDB：本身操作比较繁琐、存在浏览器的兼容&#13;
+&#13;
+   问题：本身操作比较繁琐，解决方案：localforage库&#13;
+&#13;
+   优势：&#13;
+&#13;
+    异步&#13;
+    存储进入的值是什么类型，读取出来还是之前类型&#13;
+    存储大小远远超过cookie和localStorage&#13;
+。</description><guid isPermaLink="true">https://Hyramxue.github.io/post/localStorage-cun-chu-chao-guo-zui-da-zhi-zen-me-ban-%EF%BC%9F.html</guid><pubDate>Fri, 19 Jul 2024 02:03:43 +0000</pubDate></item></channel></rss>
