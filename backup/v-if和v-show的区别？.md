@@ -7,3 +7,5 @@
 3. v-if才是真正的条件渲染；v-show从false变成true的时候不会触发组件的生命周期，v-if会触发生命周期;
 4. v-if的切换效率比较低  v-show的效率比较高。
  
+[上一篇](https://hyramxue.github.io/post/localStorage-cun-chu-chao-guo-zui-da-zhi-zen-me-ban-%EF%BC%9F.html)
+[下一篇](https://hyramxue.github.io/post/ru-he-li-jie-MVVM-de-%EF%BC%9F.html)
