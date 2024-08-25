@@ -21,3 +21,4 @@ localStorage存储超过最大值怎么办？
     异步
     存储进入的值是什么类型，读取出来还是之前类型
     存储大小远远超过cookie和localStorage
+[下一篇](https://hyramxue.github.io/post/v-if-he-v-show-de-qu-bie-%EF%BC%9F.html)
