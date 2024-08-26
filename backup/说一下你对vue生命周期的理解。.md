@@ -11,9 +11,9 @@ Vue实例从创建到销毁的过程，称为Vue的生命周期
 
 - updated：在数据更新之后执行，此时DOM已经更新。
 
-[上一篇](https://hyramxue.github.io/post/v-for-zhong-de-key-zhi-de-zuo-yong-shi-shen-me-%EF%BC%9F.html)
-[下一篇](https://hyramxue.github.io/post/zai-created-he-mounted-qu-qing-qiu-shu-ju-%EF%BC%8C-you-shen-me-qu-bie-%EF%BC%9F.html)
-
 - beforeDestroy：实例销毁之前调用，此时实例仍然完全可用。
 
 - destroyed：实例销毁后调用，此时所有的事件监听器会被移除，所有的子实例也会被销毁。
+
+[上一篇](https://hyramxue.github.io/post/v-for-zhong-de-key-zhi-de-zuo-yong-shi-shen-me-%EF%BC%9F.html)
+[下一篇](https://hyramxue.github.io/post/zai-created-he-mounted-qu-qing-qiu-shu-ju-%EF%BC%8C-you-shen-me-qu-bie-%EF%BC%9F.html)
